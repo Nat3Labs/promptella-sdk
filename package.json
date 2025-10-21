@@ -1,14 +1,14 @@
 {
   "name": "@nation3labs/promptella-sdk",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Official TypeScript SDK for Promptella API",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "files": [
-  "dist",
-  "README.md",
-  "LICENSE"
+    "dist",
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "build": "tsup src/index.ts --format cjs,esm --dts",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nat3Labs/promptella-sdk"
+    "url": "git+https://github.com/Nat3Labs/promptella-sdk.git"
   },
   "peerDependencies": {
     "typescript": ">=4.5.0"
