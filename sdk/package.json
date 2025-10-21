@@ -1,6 +1,6 @@
 {
   "name": "@nation3labs/promptella-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Official TypeScript SDK for Promptella API",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
