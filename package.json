@@ -23,6 +23,10 @@
   ],
   "author": "Promptella Team",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nat3Labs/promptella-sdk"
+  },
   "peerDependencies": {
     "typescript": ">=4.5.0"
   },
